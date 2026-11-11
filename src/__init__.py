@@ -1,0 +1,1 @@
+"""Shipment proof processing example."""
